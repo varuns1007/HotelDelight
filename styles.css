@@ -1,0 +1,32 @@
+nav{
+    background-color: #895B1E;
+    font-size: larger;
+
+}
+.jumbotron{
+    background: #D38F36;
+    height: 350px;
+    
+}
+.title{
+    font-family: 'Dancing Script', cursive;
+
+}
+.row{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+footer{
+    margin-top: 20px;
+    background: #F8ECDD;
+}
+body{
+    background-image: url(./d3.png);
+    
+}
+.blockquote-footer{
+    background: none;
+}
+.media-body{
+    padding-left: 10px;
+}
