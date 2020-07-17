@@ -112,4 +112,14 @@ body{
         width: 100%;
     }
    }
+   .modal .modal-header {
+    background-color: #D38F36; }
+    .modal .modal-header .close {
+      color: #ddd; }
+    .modal .modal-header .close:hover {
+      color: #ddd; }
+    .modal .modal-header .modal-title {
+      color: #ddd; }
   
+  .modal .modal-body {
+    background-color: #F8ECDD; }
