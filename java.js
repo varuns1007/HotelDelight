@@ -1,10 +1,10 @@
 var myVar;
 
   function preloader() {
-      myVar = setTimeout(showPage, 1500);
+      myVar = setTimeout(showPage, 1000);
   }
   function showPage() {
-    $("#preloader").fadeOut(1500);
+    $("#preloader").fadeOut(1000);
     document.getElementById("wrapper").style.opacity = 1;
   }
 //Get the button
