@@ -1,3 +1,12 @@
+var myVar;
+
+  function preloader() {
+      myVar = setTimeout(showPage, 1500);
+  }
+  function showPage() {
+    $("#preloader").fadeOut(1500);
+    document.getElementById("wrapper").style.opacity = 1;
+  }
 //Get the button
 var mybutton = document.getElementById("myBtn");
 
